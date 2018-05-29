@@ -14,4 +14,4 @@ A sample iOS app supporting [EarlGrey Tests](https://github.com/google/EarlGrey)
 	3. cd Sample_iOS-&lt;random characters&gt;
 	4. cd Build/Products/Debug-iphoneos/
 	5. zip -r SampleApp.zip Sample\ iOS.app/
-5. Use the ipa, and zip file to run on Browserstack
+5. Use the  zip file to run on Browserstack
